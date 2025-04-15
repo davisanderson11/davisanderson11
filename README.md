@@ -51,6 +51,6 @@ Feel free to reach out if you want to connect or collaborate on projects:
 ---
 
 <!-- Footer Section -->
-> **"They say u r what "** – Cory House
+![Tweet by Young Thug](asset-quote.png)
 
 *Thanks for stopping by my profile!*
