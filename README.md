@@ -1,6 +1,6 @@
 <!-- Header / Hero Section -->
-# Hi, I'm Your Name! 👋
-I'm a passionate developer and lifelong learner who loves building neat projects and contributing to the open source community. 🚀
+# Davis Anderson
+I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at Vassar College!
 
 <!-- Optional: Add a profile picture -->
 ![Profile Banner](https://via.placeholder.com/800x200?text=Your+Profile+Banner)
@@ -14,8 +14,6 @@ I'm a passionate developer and lifelong learner who loves building neat projects
 - 👯 I’m looking to collaborate on projects related to **machine learning** and **full stack development**.
 - 💬 Ask me about **JavaScript, Python, and DevOps**.
 - 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 😄 Pronouns: He/Him or She/Her (Customize as needed)
-- ⚡ Fun fact: I enjoy hiking and photography when I’m not coding!
 
 ---
 
@@ -24,17 +22,15 @@ I'm a passionate developer and lifelong learner who loves building neat projects
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
 <!-- GitHub Stats Section -->
 ## My GitHub Stats
 <!-- You can use GitHub Readme Stats to show off your coding stats -->
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisanderson11&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisanderson11&layout=compact&theme=radical)
 
 ---
 
