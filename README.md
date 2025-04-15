@@ -1,13 +1,13 @@
 <!-- Header / Hero Section -->
 # Davis Anderson
-I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at Vassar College!
+I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at **Vassar College**!
 
 ---
 
 <!-- About Me Section -->
 ## About Me
-- 🔭 I’m currently working on **awesome projects** related to open-source and web development.
-- 🌱 I’m currently learning **new technologies** and frameworks.
+- ★ I’m currently working on **awesome projects** related to open-source and web development.
+- 🌱(https://img.shields.io/badge/just%20the%20message-8A2BE2) I’m currently learning **new technologies** and frameworks.
 - 👯 I’m looking to collaborate on projects related to **machine learning** and **full stack development**.
 - 💬 Ask me about **JavaScript, Python, and DevOps**.
 - 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
