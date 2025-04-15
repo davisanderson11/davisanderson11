@@ -7,7 +7,7 @@ I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at **
 <!-- About Me Section -->
 ## About Me
 - ★ I’m currently working on **awesome projects** related to open-source and web development.
-- 🌱![](https://img.shields.io/badge/just%20the%20message-8A2BE2) I’m currently learning **new technologies** and frameworks.
+- 🌱![](https://img.shields.io/badge/☆-yellow?style=for-the-badge&logoColor=white) I’m currently learning **new technologies** and frameworks.
 - 👯 I’m looking to collaborate on projects related to **machine learning** and **full stack development**.
 - 💬 Ask me about **JavaScript, Python, and DevOps**.
 - 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
