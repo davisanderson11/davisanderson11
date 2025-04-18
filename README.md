@@ -6,11 +6,10 @@ I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at **
 
 <!-- About Me Section -->
 ## About Me
-- ★ I’m currently working on **awesome projects** related to open-source and web development.
-- 🌱![](https://img.shields.io/badge/☆-yellow?style=for-the-badge&logoColor=white) I’m currently learning **new technologies** and frameworks.
-- 👯 I’m looking to collaborate on projects related to **machine learning** and **full stack development**.
-- 💬 Ask me about **JavaScript, Python, and DevOps**.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- ★ I’m currently working on projects related to **open-source software** and web development.
+- ★ I’m learning **backend development** and Node.js.
+- ★ I’m studying **Cognitive Science** at Vassar College as well as competing on the Track and Field team.
+- 📫 How to reach me: [davisanderson@vassar.edu](mailto:davisanderson@vassar.edu)
 
 ---
 
@@ -24,7 +23,7 @@ I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at **
 ---
 
 <!-- GitHub Stats Section -->
-## My GitHub Stats
+## GitHub Stats
 <!-- You can use GitHub Readme Stats to show off your coding stats -->
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davisanderson11&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davisanderson11&layout=compact&theme=radical)
@@ -34,9 +33,9 @@ I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at **
 <!-- Projects Section -->
 ## Projects & Contributions
 Here are a few highlights:
-- 🔧 **Project One**: A brief description of what this project does and its tech stack. [GitHub Repo](https://github.com/yourusername/project-one)
-- 🌟 **Project Two**: A brief description and the impact of this project. [GitHub Repo](https://github.com/yourusername/project-two)
-- 📝 **Blog Posts & Tutorials**: I also write about programming and technology. Check out my [blog](https://yourblog.com).
+- 🔧 **OpenGeo**: A brief description of what this project does and its tech stack. [GitHub Repo](https://github.com/yourusername/project-one)
+- 🌟 **Soundscapes**: A brief description and the impact of this project. [GitHub Repo](https://github.com/yourusername/project-two)
+- 📝 **My Personal Page**: I also write about programming and technology. Check out my [blog](https://yourblog.com).
 
 ---
 
