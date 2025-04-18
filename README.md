@@ -33,9 +33,9 @@ I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at **
 <!-- Projects Section -->
 ## Projects & Contributions
 Here are a few highlights:
-- 🔧 **OpenGeo**: A brief description of what this project does and its tech stack. [GitHub Repo](https://github.com/yourusername/project-one)
-- 🌟 **Soundscapes**: A brief description and the impact of this project. [GitHub Repo](https://github.com/yourusername/project-two)
-- 📝 **My Personal Page**: I also write about programming and technology. Check out my [blog](https://yourblog.com).
+- 🌎 **OpenGeo**: An open-source colleciton of GeoJSON files containing climate, weather, and terrain data. [site1](https://www.opengeo.net)
+- 🔊 **Soundscapes**: An AR music collection game with full Spotify API integration, made using React Native (still in development).
+- 📝 **My Personal Page**: Work-in-progress site showcasing my (mostly) finished projects and some info about me. [site](https://www.andersd.org)
 
 ---
 
@@ -43,12 +43,10 @@ Here are a few highlights:
 ## Connect with Me
 Feel free to reach out to me on these platforms:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davis-anderson-91b352339/)
 - [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://www.andersd.org)
 
 ---
 
 <!-- Footer Section -->
 ![Tweet by Young Thug](asset-quote.png)
-
-*Thanks for stopping by my profile!*
