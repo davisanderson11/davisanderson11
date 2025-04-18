@@ -8,7 +8,7 @@ I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at **
 ## About Me
 - ★ I’m currently working on projects related to **open-source software** and web development.
 - ★ I’m learning **backend development** and Node.js.
-- ★ I’m studying **Cognitive Science** at Vassar College as well as competing on the Track and Field team.
+- ★ I’m studying **Cognitive Science** at Vassar College and I also compete on the Track and Field team.
 - 📫 How to reach me: [davisanderson@vassar.edu](mailto:davisanderson@vassar.edu)
 
 ---
