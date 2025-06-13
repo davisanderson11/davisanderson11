@@ -1,6 +1,6 @@
 <!-- Header / Hero Section -->
 # Davis Anderson
-I'm a frontend (aspiring full-stack) developer and Cognitive Science Major at **Vassar College**.
+I'm a frontend developer and Cognitive Science Major at **Vassar College**.
 
 ---
 
