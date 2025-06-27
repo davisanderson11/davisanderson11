@@ -37,6 +37,7 @@ Here are a few highlights:
 - 🌎 **OpenGeo**: An open-source colleciton of GeoJSON files containing climate, weather, and terrain data. [OpenGeo](https://www.opengeo.net)
 - 🧠 **jsPsych**: I am currently developing cognitive tests as well as contributing to the jspsych-dev and jspsych-timelines projects. [jsPsych.org](https://www.jspsych.org)
 - 🔊 **Soundscapes**: An AR music collection game with full Spotify API integration, made using React Native (still in development).
+- 🌌 **milky-way**: WIP Repository that generates a procedural deterministic model of the milky way (with about 130 billion stars) as well as incorporating real stellar data within 80 light years. [Project](https://github.com/davisanderson11/milky-way)
 - 📝 **My Personal Page**: Work-in-progress site showcasing some of my (mostly) finished projects and some info about me. [andersd.org](https://www.andersd.org)
 
 ---
